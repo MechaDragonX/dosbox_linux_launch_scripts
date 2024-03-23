@@ -1,6 +1,6 @@
 # Linux Launch Scripts for Games That Use DOSBox on Steam, GOG, etc.
 
-## Purpose?
+## Purpose
 Numerous DOS games (and many still that were simply ported to DOS, be they console games or games for competing computers) are distributed on Steam and other storefronts as simply
 - The original retail game files
 - A portable Windows version of the DOS emulator, DOSBox
