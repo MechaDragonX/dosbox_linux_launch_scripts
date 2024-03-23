@@ -24,14 +24,14 @@ As is, such releases require Wine to run on Linux, let alone macOS, where it see
         - Debian-based: `libopusfile0`
         - Arch: `opusfile`
         - Fedora: `opusfile`
-- A global installation of DOSBox. DOSBox Staging works, but I have not tested DOSBox-X, the fork that works with the [NEC PC-9800 series](https://en.wikipedia.org/wiki/PC-98)
+- A global installation of DOSBox. Forks such as DOSBox Staging and DOSBox-X, the fork that works with the [NEC PC-9800 series](https://en.wikipedia.org/wiki/PC-98), work as well, but you may have to modify the script
     - Normal DOSBox
         - Debian: `dosbox`
         - Ubuntu: Make sure [Universe repositories are enabled](https://help.ubuntu.com/community/AddingRepositoriesHowto) and install `dosbox`
         - Arch: `dosbox`
         - Fedora: `dosbox`
     - DOSBox Staging
-        - Debian-based:
+        - Debian-based: Requires a custom repository
             ```bash
             sudo add-apt-repository ppa:feignint/dosbox-staging
             sudo apt-get update
@@ -39,6 +39,17 @@ As is, such releases require Wine to run on Linux, let alone macOS, where it see
             ```
         - Arch AUR: `dosbox-staging`
         - Fedora: `dosbox-staging`
+    - DOSBox-X (Requires modification to the script)
+        - Debian-based: `dosbox-x`
+        - Arch AUR:
+            - SDL1: `dosbox-x`
+            - SDL2: `dosbox-x-sdl2`
+        - Fedora: Requires a Copr Repsository
+            ```bash
+            sudo dnf copr enable rob72/DOSBox-X
+            sudo dnf update
+            sudo dnf install DOSBox-X
+            ```
 
 ## Currently Supported Games
 - Alone in the Dark: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548090/Alone_in_the_Dark_1/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
