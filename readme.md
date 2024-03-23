@@ -44,6 +44,7 @@ As is, such releases require Wine to run on Linux, let alone macOS, where it see
 - Alone in the Dark: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548090/Alone_in_the_Dark_1/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
 - Alone in the Dark 2: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548890/Alone_in_the_Dark_2/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game))
 - Alone in the Dark 3: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548900/Alone_in_the_Dark_3/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)
+- Ultima IV: Quest of the Avatar:  [GOG](https://www.gog.com/en/game/ultima_4) ･ [Wikipedia](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 
 ## Frequently Asked Questions
 - Does the work on macOS?
