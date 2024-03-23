@@ -44,6 +44,9 @@ As is, such releases require Wine to run on Linux, let alone macOS, where it see
 - Alone in the Dark: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548090/Alone_in_the_Dark_1/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
 - Alone in the Dark 2: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548890/Alone_in_the_Dark_2/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game))
 - Alone in the Dark 3: [GOG](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) ･ [Steam](https://store.steampowered.com/app/548900/Alone_in_the_Dark_3/) ･ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)
+- The Elder Scrolls: Arena: [GOG](https://www.gog.com/en/game/the_elder_scrolls_arena) ･ [Steam](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/) ･ [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)
+    - While this one should work, it doesn't actually work. Despite basically the same script being used for II.
+- The Elder Scrolls II: Daggerfall: [GOG](https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall) ･ [Steam](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/) ･ [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall)
 - Tyrian 2000: [GOG](https://www.gog.com/en/game/tyrian_2000) ･ [Wikipedia](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 - Ultima IV: Quest of the Avatar: [GOG](https://www.gog.com/en/game/ultima_4) ･ [Wikipedia](https://en.wikipedia.org/wiki/Tyrian_(video_game))
 
